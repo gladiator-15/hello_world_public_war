@@ -17,7 +17,7 @@
       url: https://teamhost.jfrog.io/artifactory/generic-generic-local/webapp-{{ build_number }}.war
       dest: /home/tomcat/sourcefile/webapp.war
       username: falconphenoix605@gmail.com
-      password: Falconphenoix@123
+      password: Falcon@123
 
   - name: create directory with a date in name
     file: 
